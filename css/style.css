@@ -1,6 +1,5 @@
 body{
   min-height: 100vh;
-  width: 80vw;
   font-family: Poppins;
   display: flex;
   flex-direction: column;
